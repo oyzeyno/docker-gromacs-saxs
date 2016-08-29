@@ -15,4 +15,4 @@ docker ps
 
 #To copy files from container to the host machine:
 
-docker cp <name-of-container>:/<directory-name-in-VM>/<filename> <directory-name-on-host>
+docker cp <i>name-of-container</i>:/<i>directory-name-in-VM</i>/<i>filename</i> <i>directory-name-on-host</i>
