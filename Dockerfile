@@ -1,6 +1,6 @@
 FROM debian:latest
 
-MAINTAINER Zeynep Kurkcuoglu "zeynepkurkcuoglu@gmail.com"
+MAINTAINER Zeynep Kurkcuoglu 
 
 #Install software
 RUN export DEBIAN_FRONTEND=noninteractive 
